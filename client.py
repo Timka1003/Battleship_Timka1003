@@ -6,7 +6,7 @@ import time
 from threading import Thread, Event
 from math import sin, cos, radians
 
-SERVER_URL = "http://127.0.0.1:5000"
+SERVER_URL = " " 
 GRID_SIZE = 10
 CELL_SIZE = 50
 SHIP_TYPES = {
